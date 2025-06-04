@@ -73,7 +73,7 @@ python get_results.py
 
 ---
 
-## Results Summary
+## Results
 
 ![Results Summary](./fig2.png)
 
