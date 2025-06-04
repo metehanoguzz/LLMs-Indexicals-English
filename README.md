@@ -7,7 +7,6 @@
 ## Paper
 
 [**Un-considering Contextual Information: Assessing LLMs’ Understanding of Indexical Elements**](https://arxiv.org/abs/2506.01089)
-Metehan Oguz, Yavuz Bakman, Duygu Nur Yaldiz
 
 ---
 
