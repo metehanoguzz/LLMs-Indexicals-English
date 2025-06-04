@@ -86,7 +86,7 @@ If you use our dataset or findings, please cite:
 ```bibtex
 @misc{oguz2025unconsideringcontextualinformationassessing,
   title={Un-considering Contextual Information: Assessing LLMs' Understanding of Indexical Elements}, 
-  author={Metehan Oguz and Yavuz Bakman and Duygu Nur Yaldiz},
+  author={Metehan Oğuz and Yavuz Bakman and Duygu Nur Yaldiz},
   year={2025},
   eprint={2506.01089},
   archivePrefix={arXiv},
